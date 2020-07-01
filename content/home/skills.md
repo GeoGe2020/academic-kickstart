@@ -15,19 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "chalkboard"
+  icon_pack = "fas"
   name = "Seismic interpretation"
   description = "Particularly for salt-bearing basins"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "camera-retro"
   icon_pack = "fas"
   name = "Analogume modelling"
   description = "With GFZ team"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Numerical simulation"
   description = "With University of Bergen team"
