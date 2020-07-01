@@ -1,17 +1,18 @@
 ---
+title: Zhiyuan Ge
+role: Assistant professor
+avatar_filename: 0f01366.jpg
 organizations:
   - name: China University of Petroleum (Beijing)
     url: http://www.cup.edu.cn/english/
 superuser: true
 authors:
   - admin
-title: Zhiyuan Ge
-role: Assistant professor
 bio: My research interests include tectono-stratigraphy of salt-bearing basins.
 interests:
   - Salt tectonics
-  - sedimentology
-  - tectono-stratigraphy
+  - Sedimentology
+  - Tectono-stratigraphy
 social:
   - icon: envelope
     icon_pack: fas
