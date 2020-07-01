@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-  Researches focusing on tectono-straigraphy in salt-bearing basins
+  Researches focusing on tectono-straigraphy in salt-bearing basins.
   """
 
 [[experience]]
@@ -35,7 +35,9 @@ date_format = "Jan 2006"
   location = "Bergen, Norway"
   date_start = "2016-07-01"
   date_end = "2019-11-15"
-  description = """Under the T3 project with Professor Rob Gawthrope."""
+  description = """
+  Under the T3 project with Professor Rob Gawthrope.
+  """
     
 
 [[experience]]
@@ -44,6 +46,8 @@ date_format = "Jan 2006"
   company_url = "https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/earth-sciences/"
   location = "Surrey, UK"
   date_start = "2010-09-08"
-  date_end = "2011-10-4"
-  description = """In the analgoue modelling project with Professor Jürgen Adam."""
+  date_end = "2011-10-04"
+  description = """
+  In the analgoue modelling project with Professor Jürgen Adam.
+  """
 +++
