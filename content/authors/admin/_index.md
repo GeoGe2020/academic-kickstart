@@ -1,75 +1,38 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: China University of Petroleum (Beijing)
+    url: http://www.cup.edu.cn/english/
+superuser: true
+authors:
+  - admin
+title: Zhiyuan Ge
+role: Assistant professor
+bio: My research interests include tectono-stratigraphy of salt-bearing basins.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Salt tectonics
+  - sedimentology
+  - tectono-stratigraphy
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=gQahscAAAAAJ&hl
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Petroleum Geology
+      institution: University of Bergen
+      year: 2015
+    - course: Msc in Geology by Research
+      institution: Royal Holloway, University of London
+      year: 2010
+    - course: BSc in Geology
+      institution: Zhejiang University
+      year: 2009
+email: gezhiyuan@cup.edu.cn
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an assistant professor at College of Geosciences, China University of Petroleum (Beijing). My research mainly focuses on the tectono-stratigraphic evolution of sedimentary basins, particularly the interaction between salt-controlled structures and deep-water sedimentation. I have worked closely with industry in multiple research projects in the last couple of years. Currently I am involved in a research project between University of Bergen and German Research Centre for Geosciences (GFZ) focusing on salt tectonics in passive margins. I have published over 10 peer-reviewed articles in international geoscience journals.
