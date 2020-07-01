@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Controls on variations of geometry and stratigraphy in salt minibasins: Lower Congo Basin, Angola Margin"
+  caption: ""
   image: ""
 ---
