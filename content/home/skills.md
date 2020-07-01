@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Seismic interpretation"
+  description = "Particularly for salt-bearing basins"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Analogume modelling"
+  description = "With GFZ team"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Numerical simulation"
+  description = "With University of Bergen team"
 
 # Uncomment to use emoji icons.
 # [[feature]]
