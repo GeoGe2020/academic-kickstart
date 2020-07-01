@@ -31,10 +31,19 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Postodc"
   company = "University of Bergen"
-  company_url = ""
+  company_url = "https://www.uib.no/en/geo"
   location = "Bergen, Norway"
   date_start = "2016-07-01"
   date_end = "2019-11-15"
   description = """Under the T3 project with Professor Rob Gawthrope."""
+    
 
+[[experience]]
+  title = "Research assistant"
+  company = "Royal Holloway, University of London"
+  company_url = "https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/earth-sciences/"
+  location = "Surrey, UK"
+  date_start = "2010-09-08"
+  date_end = "2011-10-4"
+  description = """In the analgoue modelling project with Professor Jürgen Adam."""
 +++
