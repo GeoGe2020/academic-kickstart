@@ -25,11 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Seismic Interpretation
-  * Analogue Modelling
-  * Numerical Simulation
+  Researches focusing on tectono-straigraphy in salt-bearing basins
   """
 
 [[experience]]
@@ -39,6 +35,6 @@ date_format = "Jan 2006"
   location = "Bergen, Norway"
   date_start = "2016-07-01"
   date_end = "2019-11-15"
-  description = """Researches under the T3 project with Professor Rob Gawthrope."""
+  description = """Under the T3 project with Professor Rob Gawthrope."""
 
 +++
