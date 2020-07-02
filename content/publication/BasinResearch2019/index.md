@@ -30,7 +30,12 @@ summary: Depocentres record minibasin subsidence dynamics and associated salt we
 
 
 tags:
-- Source Themes
+- Journal publication
+- Salt tectonics
+- Passive margins
+- Minibasin
+- Offshore, Angola
+- Seismic study
 featured: true
 
 # links:
