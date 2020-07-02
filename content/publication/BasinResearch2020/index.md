@@ -27,7 +27,12 @@ abstract: In passive margin salt basins, the distinct kinematic domains of thinâ
 summary: We use high quality 3D seismic to document the evolution of a network of minibasins and their associated salt-related structures. We show that minibasin initiation and subsequent evolution can be controlled by different mechanisms and therefore categorising minibasins into simple domain-related types is problematic.
 
 tags:
-- Source Themes
+- Journal publication
+- Salt tectonics
+- Passive margins
+- Minibasin
+- Offshore, Angola
+-Seismic study
 featured: false
 
 # links:
