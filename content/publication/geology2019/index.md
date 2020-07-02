@@ -27,7 +27,10 @@ abstract: As a main driving mechanism, margin tilting is crucial for gravitation
 summary: Salt-bearing passive margins have different structural styles and kinematic evolution under progressive margin tilting and instant margin tilting,respectively.
 
 tags:
-- Source Themes
+- Journal publication
+- Salt tectonics
+- Passive margins
+- Analogue modelling
 featured: true
 
 # links:
