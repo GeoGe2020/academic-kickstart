@@ -23,22 +23,10 @@ publication_types: ["2"]
 publication: "Basin Research"
 publication_short: ""
 
-abstract: Salt tectonics is an important part of the geological evolution of many continental margins, yet the four‐dimensional evolution of the minibasins, the fundamental 
-building block of these and many other salt basins, remains poorly understood. Using high‐quality 3D seismic data from the Lower Congo Basin, offshore Angola we document the  
-long‐term (>70 Myr) dynamics of minibasin subsidence. We show that, during the Albian, a broadly tabular layer of carbonate was deposited prior to substantial salt flow,
-diapirism, and minibasin formation. We identify four subsequent stages of salt‐tectonics and related minibasin evolution: (i) thin‐skinned extension (Cenomanian to Coniacian)  
-driven by basinward tilting of the salt layer, resulting in the formation of low‐displacement normal faults and related salt rollers. During this stage, local salt welding led
-to the along‐strike migration of fault‐bound depocentres; (ii) salt welding below the eastern part of the minibasin (Santonian to Paleocene), causing a westward shift in
-depocentre location; (iii) welding below the minibasin centre (Eocene to Oligocene), resulting in the formation of a turtle and an abrupt shift of depocentres towards the flanks 
-of the bounding salt walls; and (iv) an eastward shift in depocentre location due to regional tilting, contraction, and diapir squeezing (Miocene to Holocene). Our study shows 
-that salt welding and subsequent contraction are key controls on minibasin geometry, subsidence and stratigraphic patterns. In particular, we show how salt welding is a 
-protracted process, spanning > 70 Myr of the salt‐tectonic history of this, and likely other salt‐rich basins. The progressive migration of minibasin depocentres, and the 
-associated stratigraphic architecture, record weld dynamics. Our study has implications for the tectono‐stratigraphic evolution of minibasins.
+abstract: Salt tectonics is an important part of the geological evolution of many continental margins, yet the four‐dimensional evolution of the minibasins, the fundamental building block of these and many other salt basins, remains poorly understood. Using high‐quality 3D seismic data from the Lower Congo Basin, offshore Angola we document the long‐term (>70 Myr) dynamics of minibasin subsidence. We show that, during the Albian, a broadly tabular layer of carbonate was deposited prior to substantial salt flow, diapirism, and minibasin formation. We identify four subsequent stages of salt‐tectonics and related minibasin evolution: (i) thin‐skinned extension (Cenomanian to Coniacian) driven by basinward tilting of the salt layer, resulting in the formation of low‐displacement normal faults and related salt rollers. During this stage, local salt welding led to the along‐strike migration of fault‐bound depocentres; (ii) salt welding below the eastern part of the minibasin (Santonian to Paleocene), causing a westward shift in depocentre location; (iii) welding below the minibasin centre (Eocene to Oligocene), resulting in the formation of a turtle and an abrupt shift of depocentres towards the flanks of the bounding salt walls; and (iv) an eastward shift in depocentre location due to regional tilting, contraction, and diapir squeezing (Miocene to Holocene). Our study shows that salt welding and subsequent contraction are key controls on minibasin geometry, subsidence and stratigraphic patterns. In particular, we show how salt welding is a protracted process, spanning > 70 Myr of the salt‐tectonic history of this, and likely other salt‐rich basins. The progressive migration of minibasin depocentres, and the associated stratigraphic architecture, record weld dynamics. Our study has implications for the tectono‐stratigraphic evolution of minibasins.  
 
 # Summary. An optional shortened abstract.
-summary: We use high‐quality seismic data to show depocentres record minibasin subsidence dynamics and associated salt weld processes，and they canmigrate along‐ and across‐
-strike under the control of salt weld.
-
+summary: We use high‐quality seismic data to show depocentres record minibasin subsidence dynamics and associated salt weld processes，and they canmigrate along‐ and across‐strike under the control of salt weld.
 tags:
 - Journal publication
 - Salt tectonics
