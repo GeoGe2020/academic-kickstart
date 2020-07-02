@@ -32,7 +32,7 @@ tags:
 - Passive margins
 - Minibasin
 - Offshore, Angola
--Seismic study
+- Seismic study
 featured: false
 
 # links:
