@@ -30,7 +30,7 @@ summary: Depocentres record minibasin subsidence dynamics and associated salt we
 
 
 tags:
-- Source Themes
+- Journal publication
 featured: true
 
 # links:
