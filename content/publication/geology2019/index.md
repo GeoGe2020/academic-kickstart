@@ -28,7 +28,7 @@ summary: Salt-bearing passive margins have different structural styles and kinem
 
 tags:
 - Source Themes
-featured: ture
+featured: true
 
 # links:
 # - name: ""
