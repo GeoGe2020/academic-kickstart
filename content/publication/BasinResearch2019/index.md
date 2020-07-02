@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/bre.12486
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/bre.12486'
 url_code: ''
 url_dataset: ''
 url_poster: ''
