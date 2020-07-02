@@ -28,7 +28,7 @@ summary: Salt-bearing passive margins have different structural styles and kinem
 
 tags:
 - Source Themes
-featured: false
+featured: ture
 
 # links:
 # - name: ""
@@ -64,4 +64,4 @@ projects: [SALT TECTONICS IN PASSIVE MARGINS]
 # slides: example
 ---
 
-Supplementary data can be downloaded here, including [code](https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id=escidoc:4268888/).
+Supplementary data can be downloaded here, including [data and code](https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id=escidoc:4268888/).
