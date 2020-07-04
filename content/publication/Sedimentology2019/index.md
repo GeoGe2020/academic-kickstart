@@ -1,5 +1,5 @@
 ---
-title: "Danielle M. Howlett"
+title: "Response of unconfined turbidity current to deep‐water fold and thrust belt topography: Orthogonal incidence on solitary and segmented folds"
 authors:
 - Danielle M. Howlett
 - admin
