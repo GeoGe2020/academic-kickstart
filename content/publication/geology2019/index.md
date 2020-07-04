@@ -31,7 +31,7 @@ tags:
 - Salt tectonics
 - Passive margins
 - Analogue modelling
-featured: true
+featured: false
 
 # links:
 # - name: ""
