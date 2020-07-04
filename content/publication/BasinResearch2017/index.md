@@ -4,7 +4,7 @@ authors:
 - admin
 - Rob L. Gawthorpe
 - Atle Rotevatn
-- Christopher A.‐L. Jackson
+- Michel Bøgh Thomas
 date: "2017-10-01T00:00:00Z"
 doi: "https://doi.org/10.1111/sed.12602"
 
