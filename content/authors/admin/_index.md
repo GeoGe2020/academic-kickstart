@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include tectono-stratigraphy of salt-bearing basins.
+bio: My research focuses on tectono-stratigraphy of salt-bearing basins.
 interests:
   - Salt tectonics
   - Sedimentology
@@ -20,6 +20,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=gQahscAAAAAJ&hl
+  - link: https://www.researchgate.net/profile/Zhiyuan_Ge2
+    icon: researchgate
+    icon_pack: ai
 education:
   courses:
     - course: PhD in Petroleum Geology
