@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Research Method"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard"
   icon_pack = "fas"
-  name = "Seismic interpretation"
-  description = "Particularly for salt-bearing basins"
+  name = "Seismic Interpretation"
+  description = "Seismic data, particularly high quality 3D seismic data, can provide geologists an opportunity to see geological features in the past"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Analogume modelling"
-  description = "With GFZ team"  
+  name = "Analogume Modelling"
+  description = "Sandbox modelling with digital image correlation (DIC) technique allow us to have 3D surface deformation of the model evolution at high spatial and temporal resolution"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Numerical simulation"
-  description = "With University of Bergen team"
+  name = "Numerical Simulation"
+  description = "Numericall simulation of turbidity current gives a whole set of hydraulic parameters of the flow behaviour allowing a detailed analysis of flow evolution"
 
 # Uncomment to use emoji icons.
 # [[feature]]
