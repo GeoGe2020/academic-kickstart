@@ -1,6 +1,6 @@
 ---
 title: Professor Rob Gawthorpe
-subtitle: University of Bergen
+summary: University of Bergen
 date: 2020-07-01T09:10:02.063Z
 draft: false
 featured: false

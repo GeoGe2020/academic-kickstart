@@ -1,6 +1,6 @@
 ---
 title: Professor Atle Rotevatn
-subtitle: University of Bergen
+summary: University of Bergen
 date: 2020-07-03T10:10:02.063Z
 draft: false
 featured: false
