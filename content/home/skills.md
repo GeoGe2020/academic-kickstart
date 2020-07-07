@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard"
   icon_pack = "fas"
-  name = "Seismic Interpretation"
-  description = "Seismic data, particularly high quality 3D seismic data, can provide geologists an opportunity to see geological features in the past"
+  name = "Subsurface Data Interpretation"
+  description = "Subsurface data, particularly high quality 3D seismic data, can provide geologists an opportunity to see geological features in the past"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Analogume Modelling"
-  description = "Sandbox modelling with digital image correlation (DIC) technique allow us to have 3D surface deformation of the model evolution at high spatial and temporal resolution"  
+  description = "Sandbox modelling with digital image correlation (DIC) technique allow us to observe 3D surface deformation of the model evolution at high spatial and temporal resolution"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Numerical Simulation"
-  description = "Numericall simulation of turbidity current gives a whole set of hydraulic parameters of the flow allowing a detailed analysis of flow evolution"
+  description = "Numericall simulation of turbidity current gives a whole set of hydraulic parameters of the flow permitting a detailed analysis of flow evolution"
 
 # Uncomment to use emoji icons.
 # [[feature]]
