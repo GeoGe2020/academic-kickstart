@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Collabrators"
-  url = "#collabrators"
+  name = "Collaborators"
+  url = "#collaborators"
   weight = 50
   
 [[main]]

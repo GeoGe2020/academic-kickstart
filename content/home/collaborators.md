@@ -1,16 +1,16 @@
 +++
-# A Collabrators section created with the Portfolio widget.
+# A collaborators section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Collabrators"
+title = "Collaborators"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "collabrators"
+  page_type = "collaborator"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
