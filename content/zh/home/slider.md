@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "学习机会"
-  content = "面向高年级本科生招聘科研助理，欢迎有兴趣的同学报名。"
+  content = "面向高年级本科生招聘科研助理1-2名。要求地震解释课程和编程课程优秀。欢迎有兴趣的同学报名。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,13 +30,13 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "投递简历"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "https://geogezhiyuan.netlify.app/zh/#contact"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"
 
  [[item]]
   title = "盐构造与深水沉积讨论组"
-  content = "欢迎对盐构造和深水沉积感兴趣的同学实名加入，我会不定期分享相关文献并解答问题。"
+  content = "欢迎对盐构造和深水沉积感兴趣的同学实名加入，我会不定期分享相关文献并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
   align = "center"
 
   overlay_color = "#C0C0C0"  # An HTML color value.
@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "我要加入"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "https://geogezhiyuan.netlify.app/zh/#contact"
   cta_icon_pack = "fas"
   cta_icon = "cat"
 # [[item]]
