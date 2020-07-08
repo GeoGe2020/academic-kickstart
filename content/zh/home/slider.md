@@ -29,7 +29,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "投递简历"
+  cta_label = "我感兴趣！"
   cta_url = "mailto:gezhiyuan@cup.edu.cn"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"

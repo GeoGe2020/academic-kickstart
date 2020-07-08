@@ -18,6 +18,11 @@
   url = "#skills"
   weight = 30
 
+[[zh.menu.main]]
+    name = "Research opportunity"
+    url = "#slider"
+    weight = 35
+
 [[main]]
   name = "Publications"
   url = "#publications"
