@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Research opportunity"
-  content = "I am looking for 1-2 research assistant working on research project. If you are interested in the internship and has good seismic interpretation and programming skills, please drop me an email with you cv or introduction."
+  content = "I am looking for 1-2 research assistant at undergraduate level working on a research project. If you are interested in the internship and has good seismic interpretation and programming skills, you are welcome to drop me an email with you cv."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
