@@ -24,7 +24,7 @@ height = ""
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -36,7 +36,7 @@ height = ""
 
  [[item]]
   title = "盐构造与深水沉积讨论组"
-  content = "欢迎对盐构造和深水沉积感兴趣的同学实名加入，我会不定期分享相关文献并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
+  content = "欢迎对盐构造和深水沉积感兴趣的本科，研究生和博士生实名加入，我会不定期分享相关文献并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
   align = "center"
 
   overlay_color = "#C0C0C0"  # An HTML color value.
