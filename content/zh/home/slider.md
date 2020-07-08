@@ -32,11 +32,11 @@ height = ""
   cta_label = "我感兴趣！"
   cta_url = "mailto:gezhiyuan@cup.edu.cn"
   cta_icon_pack = "fas"
-  cta_icon = "chalkboard-teacher"
+  cta_icon = "earlybirds"
 
  [[item]]
   title = "盐构造与深水沉积讨论组"
-  content = "欢迎对盐构造和深水沉积感兴趣的本科，研究生和博士生实名加入，我会不定期分享相关文献并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
+  content = "欢迎对盐构造和深水沉积感兴趣的本科生，研究生和博士生实名加入，我会不定期分享相关文献并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
   align = "center"
 
   overlay_color = "#C0C0C0"  # An HTML color value.
