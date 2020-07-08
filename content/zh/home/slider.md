@@ -16,15 +16,15 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "学术机会"
-  content = "面向高年级本科生招聘科研助理2名，欢迎有兴趣的同学报名。"
+  title = "学习机会"
+  content = "面向高年级本科生招聘科研助理，欢迎有兴趣的同学报名。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -37,7 +37,7 @@ height = ""
  [[item]]
   title = "盐构造与深水沉积讨论组"
   content = "欢迎对盐构造和深水沉积感兴趣的同学实名加入，我会不定期分享相关文献并解答问题。"
-  align = "left"
+  align = "center"
 
   overlay_color = "#C0C0C0"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
