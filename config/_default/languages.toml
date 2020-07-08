@@ -26,6 +26,11 @@
     weight = 30
 
   [[zh.menu.main]]
+    name = "学习机会"
+    url = "#slider"
+    weight = 35
+
+  [[zh.menu.main]]
     name = "文章"
     url = "#publications"
     weight = 40
