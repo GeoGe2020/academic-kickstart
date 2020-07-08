@@ -16,13 +16,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto:gezhiyuan@cup.edu.cn"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=gQahscAAAAAJ&hl
-  - link: https://www.researchgate.net/profile/Zhiyuan_Ge2
-    icon: researchgate
+  - icon: researchgate
     icon_pack: ai
+    link: https://www.researchgate.net/profile/Zhiyuan_Ge2
 education:
   courses:
     - course: 石油地质博士

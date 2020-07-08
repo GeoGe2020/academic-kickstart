@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "投递简历"
-  cta_url = "https://geogezhiyuan.netlify.app/zh/#contact"
+  cta_url = "mailto:gezhiyuan@cup.edu.cn"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"
 
@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "我要加入"
-  cta_url = "https://geogezhiyuan.netlify.app/zh/#contact"
+  cta_url = "mailto:gezhiyuan@cup.edu.cn"
   cta_icon_pack = "fas"
   cta_icon = "cat"
 # [[item]]
