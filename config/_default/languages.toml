@@ -11,7 +11,7 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "Academic"
+  title = "一个‘室内’地质学家的网络空间"
   [zh.params]
     description = "Site description in Chinese..."
 
