@@ -1,6 +1,6 @@
 ---
 title: Dr Michael Warsitzka
-summary: Institute of Geophysics of the Czech Academy of Sciences
+summary: Czech Academy of Sciences
 date: 2020-07-05T09:10:02.063Z
 draft: false
 featured: false
