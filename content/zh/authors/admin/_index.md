@@ -1,5 +1,5 @@
 ---
-title:葛智渊
+title: 葛智渊
 role: 特聘副教授
 avatar_filename: 0f01366.jpg
 organizations:
