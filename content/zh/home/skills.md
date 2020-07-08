@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Research Method"
+title = "主要研究方法"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard"
   icon_pack = "fas"
-  name = "Subsurface Data Interpretation"
-  description = "Subsurface data, particularly high quality 3D seismic data, can provide geologists an opportunity to see geological features in the past"
+  name = "地球物理数据解释"
+  description = "地球物理数据，特别是高精度的三维地震数据，使我们能够观察到不同时期的地质现象"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Analogume Modelling"
-  description = "Sandbox modelling with digital image correlation (DIC) technique allow us to observe 3D surface deformation of the model evolution at high spatial and temporal resolution"  
+  name = "构造物理模拟"
+  description = "利用砂箱为主的构造模拟方法，并与图片分析技术（digital image correlation (DIC)）结合， 使我们能够观察模型三维表面的构造和其动态演化过程"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Numerical Simulation"
-  description = "Numericall simulation of turbidity current gives a whole set of hydraulic parameters of the flow permitting a detailed analysis of flow evolution"
+  name = "浊流数值模拟"
+  description = "浊流的数值模拟可以提供一系列的水动力学参数，从而对浊流流体的演变过程和最终沉积特征做出定量预测"
 
 # Uncomment to use emoji icons.
 # [[feature]]
