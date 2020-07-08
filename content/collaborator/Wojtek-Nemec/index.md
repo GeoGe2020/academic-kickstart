@@ -7,6 +7,6 @@ featured: false
 external_link: https://www.uib.no/en/persons/Wojciech.Nemec
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: Circle
   preview_only: false
 ---
