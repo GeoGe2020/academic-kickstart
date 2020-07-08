@@ -1,6 +1,6 @@
 ---
-title: Professor Wojciech Nemec
-summary: University of Bergen. Worked on T3 and my PhD project.
+title: Wojciech Nemec教授
+summary: 卑尔根大学。我的博士导师。
 date: 2020-07-05T09:10:02.063Z
 draft: false
 featured: false
