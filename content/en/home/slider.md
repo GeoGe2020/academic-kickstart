@@ -32,7 +32,7 @@ height = ""
   cta_label = "I am interested!"
   cta_url = "mailto:gezhiyuan@cup.edu.cn"
   cta_icon_pack = "fas"
-  cta_icon = "earlybirds"
+  cta_icon = "grin-stars"
 
 # [[item]]
 #  title = "Left"
