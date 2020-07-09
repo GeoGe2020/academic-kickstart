@@ -32,7 +32,7 @@ height = ""
   cta_label = "我感兴趣！"
   cta_url = "mailto:gezhiyuan@cup.edu.cn"
   cta_icon_pack = "fas"
-  cta_icon = "grin-stars"
+  cta_icon = "earlybirds"
 
  [[item]]
   title = "盐构造与深水沉积讨论组"
