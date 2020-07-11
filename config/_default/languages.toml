@@ -25,10 +25,10 @@
     url = "#skills"
     weight = 30
 
-  [[zh.menu.main]]
-    name = "研究组"
-    url = "#people"
-    weight = 33
+  # [[zh.menu.main]]
+  #  name = "研究组"
+  #  url = "#people"
+  #  weight = 33
 
   [[zh.menu.main]]
     name = "学习机会"
