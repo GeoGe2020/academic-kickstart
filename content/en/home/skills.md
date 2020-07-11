@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard"
   icon_pack = "fas"
-  name = "Subsurface Data Interpretation"
+  name = "Subsurface Data Analysis"
   description = "Subsurface data, particularly high quality 3D seismic data, can provide geologists an opportunity to see geological features in the past"
   
 [[feature]]

@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard"
   icon_pack = "fas"
-  name = "地球物理数据解释"
+  name = "地球物理数据分析"
   description = "地球物理数据，特别是高精度的三维地震数据，使我们能够观察到不同时期的地质现象"
   
 [[feature]]
