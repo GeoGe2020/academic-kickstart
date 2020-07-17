@@ -107,7 +107,7 @@ directions = "Office 1027 at the Geoscience Building"
 office_hours = ["Monday 10:00 to 13:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+appointment_url = "https://ical.live/userReserveCalendar?calendarId=648298871248"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
