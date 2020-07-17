@@ -30,7 +30,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Numerical Simulation"
-  description = "Numericall simulation of turbidity current gives a whole set of hydraulic parameters of the flow permitting a detailed analysis of flow evolution"
+  description = "Numerical simulation of turbidity current gives a whole set of hydraulic parameters of the flow permitting a detailed analysis of flow evolution"
 
 # Uncomment to use emoji icons.
 # [[feature]]
