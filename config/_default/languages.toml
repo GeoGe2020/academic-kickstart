@@ -37,7 +37,7 @@
 
   [[zh.menu.main]]
     name = "博客"
-    url = "#publications"
+    url = "#posts"
     weight = 37
 
   [[zh.menu.main]]
