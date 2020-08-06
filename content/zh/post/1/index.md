@@ -1,11 +1,11 @@
 ---
 title: 只言片语
-subtitle: 一些随想，离正式发表太远，点点滴滴遗忘的又太多
+subtitle: 一些随想，离正式发表太远，点点滴滴遗忘了又难以记起，还是在网上留存着吧
 summary: 说说为什么要在个人网站里开个博客
 authors:
 - admin
-tags: []
-categories: []
+tags: [随想]
+categories: [永久]
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
 featured: false
@@ -25,5 +25,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-莫听穿林打叶声 何妨吟啸且徐行
-                        -苏轼
+**莫听穿林打叶声 何妨吟啸且徐行  -苏轼**
+
+**莫听穿林打叶声 何妨吟啸且徐行
+                        -苏轼**
