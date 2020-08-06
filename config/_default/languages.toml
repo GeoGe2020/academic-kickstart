@@ -36,6 +36,11 @@
     weight = 35
 
   [[zh.menu.main]]
+    name = "博客"
+    url = "#publications"
+    weight = 37
+
+  [[zh.menu.main]]
     name = "文章"
     url = "#publications"
     weight = 40
