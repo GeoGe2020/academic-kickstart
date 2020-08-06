@@ -35,10 +35,10 @@
     url = "#slider"
     weight = 35
 
-  [[zh.menu.main]]
-    name = "博客"
-    url = "#posts"
-    weight = 37
+  # [[zh.menu.main]]
+  #  name = "博客"
+  #  url = "#posts"
+  #  weight = 37
 
   [[zh.menu.main]]
     name = "文章"
