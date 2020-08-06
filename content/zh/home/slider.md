@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "学习机会"
-  content = "面向高年级本科生招聘科研助理2名。欢迎有兴趣的同学报名。希望你有优秀的地震解释和编程技能，并且对盆地研究感兴趣。请在邮件中附上你的简历或简介，也可以与我约定时间讨论。"
+  content = "面向高年级本科生招聘科研助理2名。欢迎对科学研究和探索有兴趣的同学报名。希望你有一定的地震解释和编程技能，并且对盆地研究感兴趣。请在邮件中附上你的简历或简介，也可以在页面底部约定时间与我讨论。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
  [[item]]
   title = "盐构造与深水沉积讨论组"
-  content = "欢迎对盐构造和深水沉积感兴趣的本科生，研究生和博士生实名加入，我会不定期分享相关文献并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
+  content = "欢迎对盐构造和深水沉积感兴趣的本科生，研究生和博士生实名加入，我会不定期分享相关研究的最新进展并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
   align = "center"
 
   overlay_color = "#C0C0C0"  # An HTML color value.
