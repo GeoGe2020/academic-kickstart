@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "学习机会"
-  content = "面向高年级本科生招聘科研助理2名。欢迎对科学研究和探索有兴趣的同学报名。希望你有一定的地震解释和编程技能，并且对盆地研究感兴趣。请在邮件中附上你的简历或简介，也可以在页面底部约定时间与我讨论。"
+  content = "面向高年级本科生提供科研机会。欢迎对科学研究和探索有兴趣的同学报名。希望你有一定的地震解释和编程技能，并且对盆地研究感兴趣。请在邮件中附上你的简历或简介，也可以在页面底部约定时间与我讨论。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
