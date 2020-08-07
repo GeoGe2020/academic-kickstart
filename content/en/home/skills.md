@@ -24,7 +24,7 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Analogume Modelling"
-  description = "Sandbox modelling with digital image correlation (DIC) technique allow us to observe 3D surface deformation of the model evolution at high spatial and temporal resolution"  
+  description = "Sandbox modelling with digital image correlation (DIC) technique allows us to observe 3D surface deformation of the model evolution at high spatial and temporal resolution"  
   
 [[feature]]
   icon = "chart-line"
