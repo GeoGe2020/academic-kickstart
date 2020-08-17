@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "联系我"
-subtitle = ""
+subtitle = "感谢你对我的研究感兴趣。对我的研究有任何评论和问题，欢迎给我留言，我将非常乐意回答他们。"
 
 # Automatically link email and phone?
 autolink = true
