@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Thanks for your interests in my reseach. If you have any comments or questions regarding to my work, please send my a message, I would love to hear them. "
+subtitle = "Thanks for your interests in my reseach. If you have any comments or questions regarding to my work, please send my a message. I would love to hear them. "
 
 # Automatically link email and phone?
 autolink = true
