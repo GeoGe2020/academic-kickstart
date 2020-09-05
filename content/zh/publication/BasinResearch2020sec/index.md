@@ -30,6 +30,7 @@ summary: We use high quality 3D seismic to document and analysize the evolution 
 tags:
 - Journal publication
 - Trubidite
+- Salt tectonics
 - Passive margins
 - Offshore, Angola
 - Seismic study
