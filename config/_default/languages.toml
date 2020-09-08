@@ -45,10 +45,10 @@
     url = "#publications"
     weight = 40
 
-  [[zh.menu.main]]
-    name = "合作者"
-    url = "#collaborators"
-    weight = 50
+  # [[zh.menu.main]]
+  #  name = "合作者"
+  #  url = "#collaborators"
+  #  weight = 50
   
   [[zh.menu.main]]
     name = "联系我"
