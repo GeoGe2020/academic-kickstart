@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "学习机会"
-  content = "面向高年级本科生提供科研和本科毕设机会。欢迎对科学研究和探索有兴趣的同学报名。希望你有一定的地震解释和编程技能，并且对盆地研究感兴趣。请在邮件中附上你的简历或简介，也可以在页面底部约定时间与我讨论。"
+  title = "研究机会"
+  content = "诚聘 2021 年入职的博士后 2 名， 博士 1-2 名，硕士 1-2 名， 热忱欢迎相关专业方向的青年学者和有志于从事于石油地质研究工作的本科及硕士生加入研究团队。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "我感兴趣！"
-  cta_url = "mailto:gezhiyuan@cup.edu.cn"
+  cta_url = "files/2021.pdf"
   cta_icon_pack = "fas"
   cta_icon = "concierge-bell"
 
