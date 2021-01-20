@@ -1,15 +1,12 @@
 ---
-title: "Progressive tilting of salt-bearing continental margins controls thin-skinned deformation"
+title: "被动大陆边缘盐构造研究进展"
 authors:
 - admin
-- Michael Warsitzka
-- Matthias Rosenau
-- Rob L. Gawthorpe
-date: "2019-12-01T00:00:00Z"
-doi: "https://doi.org/10.1130/G46485.1"
+date: "2021-01-15T00:00:00Z"
+doi: "https://doi.org/10.16509/j.georeview.2021.01.012"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2020-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,25 +15,25 @@ publishDate: "2019-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Geology"
+publication: "地质论评"
 publication_short: ""
 
-abstract: As a main driving mechanism, margin tilting is crucial for gravitational thin-skinned salt tectonics. We investigate how instant versus progressive margin tilting influence salt tectonics using an analogue modelling setup where tilting rate can be controlled. Instant tilting results in initially high deformation rates triggering widely distributed upslope extension and downslope contraction. Later, both the extensional and contractional domains migrate upslope as early extensional structures are successively deactivated, while deformation rates decrease exponentially. In contrast, progressive tilting leads to downslope migration of the extensional domain by sequentially formed, long-lived normal faults. Contraction structures initially occur across a wide downslope area, and subsequently become localized on a few, long-lived thrusts. We attribute the distinct differences in structural evolution between the two tilting scenarios to mechanical coupling between the brittle overburden and underlying viscous material controlled by the deformation rate. By demonstrating the spatiotemporal variations of structural style and kinematic evolution associated with instant versus progressive tilting, we suggest that such variation is identifiable in subsurface datasets and therefore can provide a new way to constrain and analyse margin tilting histories.
+abstract: 被动大陆边缘的含盐盆地多在重力作用下发育薄皮盐构造。这些构造不但记录了盆地的演化过程，而且往往富含大量的油气资源。因此，被动陆缘盐构造是学术界与工业界共同关注的热点。在传统的被动陆缘含盐盆地模型中，盆地主要在重力作用下形成上坡的拉张区，下坡的挤压区和两者之间的转移区。近年来，国际学术界围绕重力变形在盆地中的作用机制展开了诸多探讨和研究。重力变形在含盐盆地中主要有盆地倾斜控制的重力滑脱和沉积楔差异负载控制的重力扩展。尽管在演化早期盆地的水深较浅，沉积物厚度较薄，沉积物差异负载的驱动力较弱。但是，由热沉降主导的盆地倾斜在早期倾角较小，其驱动力也不强。因此，这两种变形机制都有可能占据主导地位，而且往往共同控制盆地演化。此外，现有概念模型中盆地中段的转移区在自然界中较为少见。最新研究试图从盐下地貌与沉积模式两个方面来寻找盆地中间地带盐构造广泛发育的原因。最后，由于概念模型是静态的，难以反映构造区迁移和盆地多期次演化的动态特点。在实际的盆地中，被动陆缘盐构造的控制因素可能有多个，所形成的构造样式也较为复杂。总体而言，被动陆缘盐构造的研究进展并未脱离盆地倾斜和沉积物差异负载这两个基本控制因素，但在两者的时空变化上有许多新的发展。此外，相较于盆地倾斜，沉积物这个控制因素的系统性研究较少，可能是下一步研究的重点方向。
 
 # Summary. An optional shortened abstract.
-summary: Salt-bearing passive margins have different structural styles and kinematic evolution under progressive margin tilting and instant margin tilting,respectively.
+summary: 这篇文章主要提供了一个认知框架来认识和理解被动陆缘薄皮盐构造的发展历程和当前热点。
 
 tags:
 - Journal publication
 - Salt tectonics
 - Passive margins
-- Analogue modelling
+- 中文
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.geoscienceworld.org/gsa/geology/article-pdf/47/12/1122/4870133/1122.pdf
+url_pdf: http://www.geojournals.cn/georev/ch/reader/create_pdf.aspx?file_no=20216701012&flag=1&journal_id=georev&year_id=2021
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -48,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Strain evolution of the sandbox model'
+  caption: '被动陆缘模拟结果'
   focal_point: ""
   preview_only: false
 
@@ -67,4 +64,3 @@ projects: [SALT TECTONICS IN PASSIVE MARGINS]
 # slides: example
 ---
 
-Supplementary data can be downloaded here, including [data and code](https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id=escidoc:4268888/).
