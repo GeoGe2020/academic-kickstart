@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "研究机会"
-  content = "诚聘 2021 年入职的博士后 2 名， 博士 1-2 名（21年2月底截止），硕士 1-2 名， 热忱欢迎相关专业方向的青年学者和有志于从事于石油地质研究工作的本科及硕士生加入研究团队。"
+  content = "诚聘 2021 年入职的博士后 2 名， 热忱欢迎相关专业方向的青年学者加入研究团队。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
