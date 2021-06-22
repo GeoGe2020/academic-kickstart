@@ -43,7 +43,7 @@ height = ""
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#C0C0C0"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
