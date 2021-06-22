@@ -34,6 +34,24 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "concierge-bell"
 
+[[item]]
+  title = "Postdoc opportunity"
+  content = "I am looking for one postdoc working on the interaction between salt tectonics and sedimentation. If you are interested and have good programming skills, you are welcome to apply."
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "I am interested!"
+  cta_url = "files/PostDoc_2021.pdf"
+  cta_icon_pack = "fas"
+  cta_icon = "concierge-bell"
 # [[item]]
 #  title = "Left"
 #  content = "I am left aligned :smile:"
