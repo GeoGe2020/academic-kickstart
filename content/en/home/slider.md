@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Research opportunity"
-  content = "I am looking for one or two research assistants at undergraduate level working on a project. It can be developed into bacholar thesis. If you are interested and have good seismic interpretation and programming skills, you are welcome to drop me an email with your cv or a short introduction."
+  title = "Postdoc opportunity"
+  content = "I am looking for one postdoc working on the interaction between salt tectonics and sedimentation. If you are interested and have good programming skills, you are welcome to apply."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,28 +30,30 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "I am interested!"
-  cta_url = "mailto:gezhiyuan@cup.edu.cn"
+  cta_url = "files/PostDoc_2021.pdf"
   cta_icon_pack = "fas"
-  cta_icon = "concierge-bell"
+  cta_icon = "cat"
 
 [[item]]
-  title = "Postdoc opportunity"
-  content = "I am looking for one postdoc working on the interaction between salt tectonics and sedimentation. If you are interested and have good programming skills, you are welcome to apply."
+  title = "Research opportunity"
+  content = "I am looking for one or two research assistants at undergraduate level working on a project. It can be developed into bacholar thesis. If you are interested and have good seismic interpretation and programming skills, you are welcome to drop me an email with your cv or a short introduction."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#C0C0C0"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "I am interested!"
-  cta_url = "files/PostDoc_2021.pdf"
+  cta_url = "mailto:gezhiyuan@cup.edu.cn"
   cta_icon_pack = "fas"
   cta_icon = "concierge-bell"
+
+
 # [[item]]
 #  title = "Left"
 #  content = "I am left aligned :smile:"
