@@ -34,19 +34,19 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "concierge-bell"
 
- [[item]]
-  title = "盐构造与深水沉积讨论组"
-  content = "欢迎对盐构造和深水沉积感兴趣的本科生，研究生和博士生实名加入，我会不定期分享相关研究的最新进展并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
-  align = "center"
+# [[item]]
+#  title = "盐构造与深水沉积研究组"
+#  content = "欢迎对盐构造和深水沉积感兴趣的本科生，研究生和博士生实名加入，我会不定期分享相关研究的最新进展并解答问题。请在邮件中简要介绍你自己，符合要求的话我会发送群链接。"
+#  align = "center"
 
-  overlay_color = "#C0C0C0"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#  overlay_color = "#C0C0C0"  # An HTML color value.
+#  overlay_img = ""  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-  cta_label = "我要加入"
-  cta_url = "mailto:gezhiyuan@cup.edu.cn"
-  cta_icon_pack = "fas"
-  cta_icon = "cat"
+#  cta_label = "我要加入"
+#  cta_url = "mailto:gezhiyuan@cup.edu.cn"
+#  cta_icon_pack = "fas"
+#  cta_icon = "cat"
 # [[item]]
 #  title = "Right"
 #  content = "I am right aligned :smile:"
