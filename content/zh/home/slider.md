@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "研究机会"
-  content = "诚聘 2021 年入职的博士后 2 名， 热忱欢迎相关专业方向的青年学者加入研究团队。"
+  content = "诚聘 2022 年入职的博士后 1-2 名，科研助理1-2名。"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "我感兴趣！"
-  cta_url = "files/2021.pdf"
+  cta_url = "files/2022.pdf"
   cta_icon_pack = "fas"
   cta_icon = "concierge-bell"
 
