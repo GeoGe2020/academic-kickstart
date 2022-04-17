@@ -1,6 +1,6 @@
 ---
 title: Zhiyuan Ge
-role: Assistant professor
+role: Associate professor
 avatar_filename: 0f01366.jpg
 organizations:
   - name: China University of Petroleum (Beijing)
@@ -39,4 +39,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
- I am an assistant professor at College of Geosciences, China University of Petroleum (Beijing). My research mainly focuses on the tectono-stratigraphic evolution of sedimentary basins, particularly where the salt-controlled structures and deep-water sedimentation interact. I have worked closely with industry in multiple research projects in the last couple of years. Currently I am working a project studying driven forces of salt tectonics and the associated structural and kinematic evolution in salt-bearing passive margins. To learn more about my research, please move [here](#publications).
+ I am an associate professor at College of Geosciences, China University of Petroleum (Beijing). My research mainly focuses on the tectono-stratigraphic evolution of sedimentary basins, particularly where the salt-controlled structures and deep-water sedimentation interact. I have worked closely with industry in multiple research projects in the last couple of years. Currently I am working a project studying driven forces of salt tectonics and the associated structural and kinematic evolution in salt-bearing passive margins. To learn more about my research, please move [here](#publications).
